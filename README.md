@@ -6,4 +6,5 @@ The Sales - Superstore dataset contains detailed information about your companyâ
 Link to visualization on Tableau Public:
 
 https://public.tableau.com/profile/rosalind1983#!/vizhome/ACMESuperstore_15789723543890/Salesofeachsub-categorybyregion
+
 https://public.tableau.com/profile/rosalind1983#!/vizhome/ACMESuperstore1/totalsalesofeachsub-category?publish=yes
