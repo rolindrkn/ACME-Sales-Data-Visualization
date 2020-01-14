@@ -24,7 +24,7 @@ charts were sorted in ascending order of sales
 # Static and interactive visualiation
 Static visualization was used to show the sales by categories for the country, and interative visualization was used to show the sales by categories filtered by region. This format was chones because the user has low expertise with data analysis and will not need a high level of control of the data. However, allowing the user to filter by region will help keep each the visualization simple as she goes through the data for each region. 
 
-# This visualization allowed the user to quickly determine the 3 categories with the lowest sales.
+> This visualization allowed the user to quickly determine the 3 categories with the lowest sales.
 
 # Link to visualization on Tableau Public:
 
