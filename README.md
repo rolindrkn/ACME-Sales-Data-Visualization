@@ -13,16 +13,16 @@ The Sales - Superstore dataset contains detailed information about your companyâ
 1. **Colour** was used to allow user to quickly see the 3 categories with the lowest sales
 2. **Orientation** - Bar graphs were ordered in ascending order in terms of sales
 3. **Proximity** - The categories with the lowest sales were grouped together
-4. **Enclosure** - The 3 categories with the lowest sales were coloured red, and the rest were coloured gray
+4. **Enclosure** - The 3 categories with the lowest sales were coloured red, and the rest were coloured gray. <br>
                  - A reference line of the average sales was created to show how the sales compared to the average
 
 # Ways that reduced cognitive load
-Unnecessary labels were removed - row labels
-only 2 colours were used
-charts were sorted in ascending order of sales
+Unnecessary labels were removed - row labels<br>
+only 2 colours were used<br>
+charts were sorted in ascending order of sales<br>
 
 # Static and interactive visualiation
-Static visualization was used to show the sales by categories for the country, and interative visualization was used to show the sales by categories filtered by region. This format was chones because the user has low expertise with data analysis and will not need a high level of control of the data. However, allowing the user to filter by region will help keep each the visualization simple as she goes through the data for each region. 
+Static visualization was used to show the sales by categories for the country, and interative visualization was used to show the sales by categories filtered by region. This format was chosen because the user has low expertise with data analysis and will not need a high level of control of the data. However, allowing the user to filter by region will help keep each the visualization simple as she goes through the data for each region. 
 
 > This visualization allowed the user to quickly determine the 3 categories with the lowest sales.
 
