@@ -28,6 +28,6 @@ Static visualization was used to show the sales by categories for the country, a
 
 # Link to visualization on Tableau Public:
 
-https://public.tableau.com/profile/rosalind1983#!/vizhome/ACMESuperstore_15789723543890/Salesofeachsub-categorybyregion
+https://public.tableau.com/profile/rosalind1983#!/vizhome/ACMESuperstore_15789723543890/Salesofeachsub-categorybyregion?publish=yes
 
 https://public.tableau.com/profile/rosalind1983#!/vizhome/ACMESuperstore1/totalsalesofeachsub-category?publish=yes
